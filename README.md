@@ -1,4 +1,5 @@
 # CIFEr2025- Non-Linear Data Representation with Machine Learning for Dynamic Covariance-Based Financial Portfolio Optimization
+### DOI: https://ieeexplore.ieee.org/abstract/document/10975737
 
 ## Analysis
 ### This part contains a primary analysis of multiple assets considered in this study
